@@ -107,8 +107,7 @@ WHEN NOT MATCHED AND b.delicious = true THEN
 
 -- COMMAND ----------
 
--- TODO
-<FILL-IN>
+DESCRIBE HISTORY beans  
 
 -- COMMAND ----------
 
